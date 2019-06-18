@@ -14,7 +14,7 @@ $ pkg install git
 
 $ git clone https://github.com/asmin19/force
 
-$ cd brute
+$ cd force
 
 $ pip install requests
 
